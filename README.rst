@@ -1,5 +1,5 @@
 =============================
-djangocms-layout — [WIP]
+djangocms-layout
 =============================
 
 .. image:: http://img.shields.io/pypi/v/djangocms-layout.svg?style=flat-square
